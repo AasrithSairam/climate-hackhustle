@@ -28,8 +28,11 @@ Chennai FloodWatch is a real-time monitoring and predictive dashboard that lever
 The dashboard is built with a "User-First" philosophy, featuring **fully customizable widgets**. Users can drag and drop elements to prioritize what they see—whether it's the 7-day forecast, historical logs, or rainfall trends.
 
 <p align="center">
-  <img src="docs/screenshots/user_overview.png" width="48%"> 
-  <img src="docs/screenshots/user_trend.png" width="48%">
+  <img src="docs/screenshots/user_overview.png" width="100%"> 
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/user_trend.png" width="100%">
 </p>
 
 ![Customizable Dashboard](docs/screenshots/custom_layout.png)

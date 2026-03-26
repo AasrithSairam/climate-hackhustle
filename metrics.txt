@@ -1,0 +1,11 @@
+--- Model Evaluation on Test Set ---
+RMSE (Root Mean Squared Error): 9.06 mm
+MAE (Mean Absolute Error): 3.71 mm
+
+--- Forecast for Tomorrow (2025-08-18) ---
+Predicted Rainfall for Tomorrow: 0.02 mm
+
+--- Flood Risk Assessment ---
+Rolling 3-day sum (including tomorrow): 0.02 mm
+Rolling 5-day sum (including tomorrow): 3.57 mm
+FLOOD RISK FOR TOMORROW: NO

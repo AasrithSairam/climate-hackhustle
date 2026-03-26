@@ -3,7 +3,19 @@
 
 *Built for HackHustle 2.0 - CODE KNIGHT 2026 | Domain: Disaster Management*
 
-[![Project Demo](https://img.shields.io/badge/Demo-Live_Dashboard-blue?style=for-the-badge)](https://github.com/AasrithSairam/climate-hackhustle)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1CV5sXq84rnL0sP9dLJxmj69bpdEFPwsu/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Prototype_Video-View_Now-red?style=for-the-badge&logo=google-drive" height="40">
+  </a>
+  <a href="https://drive.google.com/file/d/1gys9JUXopWlbdhTK3mX8SQWDZCCbosfZ/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Presentation_Video-Watch_Full-orange?style=for-the-badge&logo=google-drive" height="40">
+  </a>
+  <a href="INSERT_HOSTING_LINK_HERE">
+    <img src="https://img.shields.io/badge/Live_Hosting-Explore_App-blue?style=for-the-badge&logo=vercel" height="40">
+  </a>
+</p>
+
+[![Project Demo](https://img.shields.io/badge/Repo-Explore_Source-lightgrey?style=for-the-badge&logo=github)](https://github.com/AasrithSairam/climate-hackhustle)
 [![Engine Accuracy](https://img.shields.io/badge/Accuracy-93.7%25-green?style=for-the-badge)](https://github.com/AasrithSairam/climate-hackhustle)
 
 ## 📌 THE PROBLEM
@@ -14,6 +26,11 @@ Chennai FloodWatch is a real-time monitoring and predictive dashboard that lever
 
 ### 🎨 Premium & Customizable UI
 The dashboard is built with a "User-First" philosophy, featuring **fully customizable widgets**. Users can drag and drop elements to prioritize what they see—whether it's the 7-day forecast, historical logs, or rainfall trends.
+
+<p align="center">
+  <img src="docs/screenshots/user_overview.png" width="48%"> 
+  <img src="docs/screenshots/user_trend.png" width="48%">
+</p>
 
 ![Customizable Dashboard](docs/screenshots/custom_layout.png)
 
@@ -34,6 +51,7 @@ Our architecture is split into a robust "Twin-Model" system:
 - **Rolling Sums**: Tracks 3-day and 7-day accumulation (critical for soil saturation).
 - **Seasonal Cos/Sin**: Embeds month-based seasonality into the linear space.
 
+![Simulation Performance](docs/screenshots/user_simulator.png)
 ![Model Simulator Result](docs/screenshots/simulator.png)
 
 ## 🛠️ TECH STACK
